@@ -6,5 +6,6 @@ public class hello {
             System.out.println(i);
             System.out.println("my name is chikki");
         }
+        System.out.println("Ia am changing");
     }
 }
