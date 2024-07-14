@@ -7,5 +7,6 @@ public class hello {
             System.out.println("my name is chikki");
         }
         System.out.println("Ia am changing");
+        System.out.println("my table is");
     }
 }
